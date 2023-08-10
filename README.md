@@ -1,4 +1,4 @@
-# MERN Project with Jest Unit Testing
+# Restistance Ohm value and tolerance calculator
 
 This repository contains a MERN (MongoDB, Express, React, Node.js) stack project with frontend and backend components. The project utilizes the following libraries:
 
@@ -41,11 +41,7 @@ cd ElectronicColorCode
   MONGODB_URI=<your_mongodb_uri>
   ```
 
-- Navigate to the `root` directory:
-
-  ```
-
-  ```
+- Navigate to the `root` directory
 
 - Install project dependencies dependencies:
   ```
